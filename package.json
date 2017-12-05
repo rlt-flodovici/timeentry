@@ -1,0 +1,19 @@
+{
+  "name": "timeentry",
+  "version": "2.0.1",
+  "description": "fork of kbwood/timeentry",
+  "main": "jquery.plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlt-flodovici/timeentry.git"
+  },
+  "author": "kbwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlt-flodovici/timeentry/issues"
+  },
+  "homepage": "https://github.com/rlt-flodovici/timeentry#readme"
+}
