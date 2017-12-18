@@ -1,6 +1,10 @@
 jQuery Time Entry
 =================
 
+Added the necessary bits to make this plugin compatible with a FE build toolchain based on Browserify.  
+All credits go to [keith-wood](http://keith-wood.name/).  
+Below the original readme from the Author.
+
 This plugin sets an input field up to accept a time value using a spinner or the keyboard.
 
 * Set time format, including seconds and/or 24 hour time.
